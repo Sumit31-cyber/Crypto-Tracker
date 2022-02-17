@@ -1,5 +1,5 @@
 # crypto_tracker
-(https://i.ibb.co/Ky9dMmC/Crypto-tracker.png)
+https://i.ibb.co/Ky9dMmC/Crypto-tracker.png
 
 
 
